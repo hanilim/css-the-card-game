@@ -1,2 +1,2 @@
-# css-the-card-game
-repo for tracking cards for CSS the card game article
+# CSS The Card Game - the battle of specificity
+See article at TODO: add link to article.
